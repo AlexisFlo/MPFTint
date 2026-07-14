@@ -1,0 +1,7 @@
+# Bytecode compilado
+__pycache__/
+*.pyc
+
+# Base de datos
+*.db
+tintoreria.db
