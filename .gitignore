@@ -1,7 +1,11 @@
-# Bytecode compilado
+venv/
 __pycache__/
 *.pyc
-
-# Base de datos
+.env
 *.db
-tintoreria.db
+EOFcat > .gitignore << 'EOF'
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
